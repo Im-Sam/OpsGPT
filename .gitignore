@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+
+# Project-specific
+data/           # contains your vectorstore index AND any uploaded docs
+demo_data/      # may contain real internal runbooks
+*.faiss
+*.pkl
+
+# OS / editor
+.DS_Store
+.env
+*.env
+.idea/
+.vscode/
