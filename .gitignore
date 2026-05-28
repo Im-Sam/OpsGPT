@@ -9,8 +9,6 @@ venv/
 env/
 
 # Project-specific
-data/           # contains your vectorstore index AND any uploaded docs
-demo_data/      # may contain real internal runbooks
 *.faiss
 *.pkl
 
