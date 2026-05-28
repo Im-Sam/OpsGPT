@@ -9,6 +9,7 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
 ---
+![screenshot](https://github.com/Im-Sam/OpsGPT/blob/master/screenshots/demo-data.PNG "Homepage with test data")
 
 ## What It Does
 
